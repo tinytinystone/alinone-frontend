@@ -1,0 +1,33 @@
+/* HEADER */
+.header {
+  background: yellow;
+}
+
+/* MAIN */
+.main {
+  background: lime;
+}
+.hero-scetion {
+  background: aqua;
+}
+.main-content {
+  background: blue;
+  float: left;
+  width: 70%;
+}
+.side-content {
+  background: pink;
+  float: right;
+  width: 30%;
+}
+
+/* CONTENT-INFO */
+.content-info {
+  background: green;
+}
+.links {
+  background: lightgreen;
+}
+.footer {
+  background: purple;
+}
